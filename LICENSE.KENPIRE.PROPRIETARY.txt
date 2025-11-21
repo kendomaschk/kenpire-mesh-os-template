@@ -1,0 +1,21 @@
+KENPIRE MESH OS PROPRIETARY LICENSE AGREEMENT (KMPLA)
+
+Copyright © 2025 Ken Domaschk / KenPire Tech Co.™ - All Rights Reserved.
+
+NOTICE TO USER: This software and its accompanying documentation (the "Mesh OS") are the proprietary intellectual property of the Copyright Holder. Your use of this software is strictly limited and governed by the terms of a separate, executed commercial licensing agreement.
+
+1. RESERVATION OF RIGHTS: All rights, title, and interest in and to the Mesh OS are and shall remain the exclusive property of the Copyright Holder. No license is granted herein. All commercial, private, public, or educational use is expressly prohibited unless a written commercial license is obtained from the Copyright Holder.
+
+2. PROTECTED INTELLECTUAL PROPERTY: This prohibition specifically applies to the core architectural components of the KenPire Mesh OS, including but not limited to:
+    * The **Smart Narrative Card Protocol™ (SNCP)** and its implementation.
+    * The **ProofLock™** cryptographic ledger and IP watermarking system.
+    * The **Trifecta Bridge™** multi-LLM orchestration architecture.
+    * The **Capsule OS** and modular execution kernel (KenFlow™).
+    * The **Dual RAG Brain™** memory model.
+    * All **Agent-to-Agent (A2A)** communication protocols and messaging formats.
+    * All **Agent Personas** (Jarvess, Dirty Rag, ClauseWitch, etc.) and their defining logic.
+    * The **Kickflip Protocol** obfuscation mechanism.
+
+3. RESTRICTIONS: You may not use, copy, modify, adapt, reverse engineer, decompile, or distribute the Mesh OS or any of its protected components without the explicit, written consent of the Copyright Holder.
+
+4. DISCLAIMER: This document serves as a public notice of proprietary claim and does not constitute a legal license. Consult with legal counsel for final patent and copyright filings.
