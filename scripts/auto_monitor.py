@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-🤖 KenPire Automation Monitor
+KenPire Automation Monitor
 Keeps Commander Ken's AI empire running 24/7
 """
 
@@ -20,7 +20,7 @@ class KenPireMonitor:
         timestamp = datetime.now().strftime('%Y-%m-%d %H:%M:%S')
         log_msg = f"[{timestamp}] {message}"
         print(log_msg)
-        with open(self.log_file, 'a') as f:
+        with open(self.log_file, 'a', encoding='utf-8') as f:
             f.write(log_msg + '\n')
     
     def check_system_health(self):
